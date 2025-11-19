@@ -5,4 +5,4 @@
 目前作品处于ui设计阶段,后端代码正在编写.\
 <img width="128" height="128" alt="MCLlogo" src="https://github.com/user-attachments/assets/6cc62390-eab5-4d4a-a780-b542f6d70f7a" />\
 基于harmony next 6.0\
-作者会不间断更新\
+作者会不间断更新
