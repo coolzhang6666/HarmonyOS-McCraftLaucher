@@ -1,4 +1,4 @@
-# HarmonyOS-McCraftLaucher\
+# HarmonyOS-McCraftLaucher
 基于HarmonyOS的我的世界启动器\
 本人目前是在校大学生,本作品我练手作品,(可能会作为毕业设计)\
 代码暂时不公布,因为暂时没有多少\
